@@ -148,11 +148,9 @@ AI-ML-Learning-Journey/
 
 ## 🤝 Connect With Me
 
-GitHub: https://github.com/your-username
+GitHub: 5hivam123
 
-LinkedIn: https://linkedin.com/in/your-profile
-
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: 231542@kit.ac.in
 
 ---
 
